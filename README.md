@@ -5,4 +5,6 @@ Brutalism, the architectural style that proves that even concrete can have an ed
 
 Right now i'm doing many courses online so I won't have much time to work on my own projects for a minute but im excited to turn ideas into reality
 
-Today I am finishing a course at freecodecamp.org about Data Analysis
+Today I am finishing a course at freecodecamp.org about Data Analysi
+
+They have given me a couple Projects that I will be studying about in the next few days
