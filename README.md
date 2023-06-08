@@ -7,4 +7,4 @@ Right now i'm doing many courses online so I won't have much time to work on my 
 
 Today I am finishing a course at freecodecamp.org about Data Analysi
 
-They have given me a couple Projects that I will be studying about in the next few days
+They have given me a couple Projects that I will be studying about in the next few days.
